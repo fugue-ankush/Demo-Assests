@@ -13,7 +13,7 @@
 - **validation-index -** Git Submodule for initial version of HIPAA and NIST policies. Repo can be accessed [here] (https://github.com/LuminalHQ/validation-index). See below to update this submodule to pull latest version
 
 ### Instructions to work with this repo and submodules:
-1. Clone main repo: `git clone --recurse-submodules https://github.com/fugue-ankush/demo-assests.git`
+1. Clone main repo: `git clone --recurse-submodules https://github.com/fugue-ankush/demo-assets.git`
 2. Update submodules to pull latest build: `git submodule update --remote`
     > This points to `master` branch of each submodule 
 
